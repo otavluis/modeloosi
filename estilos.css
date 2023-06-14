@@ -1,0 +1,48 @@
+hr{
+    border-color: #ffffff1b; 
+   }
+.home{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(40,52,119);
+    background: linear-gradient(90deg, rgba(40,52,119,1) 20%, rgba(40,215,173,1) 100%);
+    height: 100%;
+    border-radius: 10px 20px 30px;
+    justify-content: space-around;
+    justify-content: center;
+    padding: 0.1px;
+}
+.gugu{
+    border-width: thin;
+    font-family:sans-serif ;
+    font-size: medium;
+    color:rgba(214, 214, 214, 0.963);
+    align-items: Center; 
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 90px;
+}
+ul li::marker {
+    color: rgb(63, 64, 151);
+    font-size: 1.5em;
+  }
+.oque{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1px;
+}
+
+.estilo{
+    padding-left: 35px;
+    padding-right: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(38,38,38);
+    background: linear-gradient(90deg, rgba(38,38,38,1) 20%, rgba(46,46,46,1) 100%);
+    color: rgb(255, 255, 255);
+    }
+.corpo{
+    color:rgba(214, 214, 214, 0.963);
+    font-size: 15px;
+    padding-right: 90px;
+    padding-left:
+}
+
+
